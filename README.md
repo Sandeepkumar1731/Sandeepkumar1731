@@ -1,7 +1,7 @@
 # Hi there, I'm Sandeep Kumar H R! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mechanical%20Design%20Engineer&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=white&desc=Transforming%20Ideas%20into%20Reality&descAlignY=55&descSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mechanical%20Design%20Engineer&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=white&desc=Transforming%20Ideas%20into%20Reality&descAlignY=50&descSize=30" />
 </div>
 
 <div align="center">
